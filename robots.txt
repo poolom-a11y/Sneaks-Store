@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /Sneaks%20Store/shoe-shop/admin/
+Disallow: /Sneaks%20Store/shoe-shop/rider/
+Disallow: /Sneaks%20Store/shoe-shop/cart.php
+Disallow: /Sneaks%20Store/shoe-shop/checkout.php
+Disallow: /Sneaks%20Store/shoe-shop/payment.php
+Disallow: /Sneaks%20Store/shoe-shop/orders.php
+Disallow: /Sneaks%20Store/shoe-shop/track.php
+Sitemap: http://localhost/Sneaks%20Store/shoe-shop/sitemap.php
